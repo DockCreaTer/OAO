@@ -1,8 +1,8 @@
-name: ARCore
-authors: [HyGlobalHD,GamerXzavier,Adam1609,NeuroBinds,Skull3x]
-main: ARCore\ARCore
+name: DCTCore
+authors: DockCreaTer
+main: DCTCore\DCTCore
 api: [2.0.0]
-version: 0.0.3_2#UNSTABLE
+version: 0.0.1#TESTING
 commands:
   c:
     description: "use /c help for all parameters"
