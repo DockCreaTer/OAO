@@ -766,7 +766,7 @@ class ARCore extends PluginBase implements Listener{
 }
 
     public function ByeVoidz(PlayerMoveEvent $event){
-        if($event->getTo()->getFloorY() =< 7){//lucky 7
+        if($event->getTo()->getFloorY() = < 7){//lucky 7
 			$player = $event->getPlayer();
 			$x = $this->getServer()->getDefaultLevel()->getSafeSpawn()->getX();
 			$y = $this->getServer()->getDefaultLevel()->getSafeSpawn()-> getY()+1.3;
