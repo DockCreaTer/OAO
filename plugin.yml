@@ -1,6 +1,6 @@
-name: DCTCore
+name: ARCore
 authors: DockCreaTer
-main: DCTCore\DCTCore
+main: ARCore\ARCore
 api: [2.0.0]
 version: 0.0.1#TESTING
 commands:
